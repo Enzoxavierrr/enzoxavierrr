@@ -7,9 +7,6 @@ Atualmente estou no 4º semestre, com interesse em **Desenvolvimento Full Stack*
 
 ## 👨‍💻 About Me  
 - 🎓 Estudante de **Engenharia de Software** na [PUCRS](https://www.pucrs.br)  
-- 💻 Experiência como **Auxiliar Administrativo** (processos, análise de dados em Excel)  
-- 🚀 Participação em projetos acadêmicos como **Projeto Gastro (AGES I)** usando React Native, TypeScript e APIs REST  
-- 📚 Certificações em **Java (Spring Boot, API REST)** e **Fundamentos do React** – Rocketseat  
 - 📩 Contato: **pecantetenzo@gmail.com**  
 
 ---
