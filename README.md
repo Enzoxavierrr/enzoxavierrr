@@ -1,11 +1,11 @@
-# Hello There 👋  
+# Opa, eai 👋  
 
 Meu nome é **Enzo Xavier**, sou estudante de **Engenharia de Software na PUCRS** e apaixonado por tecnologia.  
 Atualmente estou no 4º semestre, com interesse em **Desenvolvimento Full Stack** 
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 Um pouco mais sobre mim
 - 🎓 Estudante de **Engenharia de Software** na [PUCRS](https://www.pucrs.br)  
 - 📩 Contato: **pecantetenzo@gmail.com**  
 
