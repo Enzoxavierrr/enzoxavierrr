@@ -4,7 +4,12 @@
 
 ###
 
+<div align="left">
+  <img src="memoji-enzo.png" alt="Memoji Enzo" width="200" />
+</div>
 <h1 align="left">Opa, eai 🤙🏽</h1>
+
+
 
 ###
 
