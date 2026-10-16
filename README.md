@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Sou estudante de Engenharia de Software na PUCRS (5º semestre) e tenho uma paixão genuína por tecnologia e desenvolvimento Full Stack. Adoro resolver problemas complexos e transformá-los em código elegante e funcional, sempre conectando backend e frontend de forma coesa.</p>
+<p align="left">Sou estudante de Engenharia de Software na PUCRS (6º semestre) e tenho uma paixão genuína por tecnologia e desenvolvimento Full Stack. Adoro resolver problemas complexos e transformá-los em código elegante e funcional, sempre conectando backend e frontend de forma coesa.</p>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Engenharia de Software - 5º semestre na PUCRS<br>💻 Desenvolvedor Full Stack apaixonado por criar soluções completas.<br>🚀 Explorando GSAP, Three.js e interações avançadas de frontend.</p>
+<p align="left">🎓 Estudante de Engenharia de Software - 6º semestre na PUCRS<br>💻 Desenvolvedor Full Stack apaixonado por criar soluções completas.<br>🚀 Explorando GSAP, Three.js e interações avançadas de frontend.</p>
 
 ###
 
